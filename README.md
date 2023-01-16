@@ -40,6 +40,7 @@
 
 
 **Interests and Activities**
+
 	Interested in learning other languages and platform such as Salesforce, PHP, Python, and other C languages 
 	Browsing social news sites and forums to keep up to date with the latest and upcoming news on computer and information technology
 
