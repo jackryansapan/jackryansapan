@@ -1,9 +1,7 @@
 **Jack Ryan Sapan**
 
-52 Rockman Cres	Mobile No. 
-(647) 546-9623
-Brampton, ON L7A 4B4
-jackryansapan@hotmail.com
+	52 Rockman Cres	 				Mobile #:(647) 546-9623 
+	Brampton, ON L7A 4B4	 			jackryansapan@hotmail.com 
 
 
 **SUMMARY**
