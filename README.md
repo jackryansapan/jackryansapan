@@ -7,15 +7,15 @@ Brampton, ON L7A 4B4								jackryansapan@hotmail.com
 
 **SUMMARY**
 
-	Has experience in Lua language, C#, Java,  SQL, ASP.NET,  HTML5, CSS, JavaScript
-	Has experience in efficient implementation, debugging and documenting of code using best practices
-	Has skills with applications including Visual Studio, Access , NetBeans, Eclipse, Microsoft Word, Excel, 
+	-Has experience in Lua language, C#, Java,  SQL, ASP.NET,  HTML5, CSS, JavaScript
+	-Has experience in efficient implementation, debugging and documenting of code using best practices
+	-Has skills with applications including Visual Studio, Access , NetBeans, Eclipse, Microsoft Word, Excel, 
 	PowerPoint  and few Adobe programs
-	Has experience setting up web applications in IIS or Tomcat
-	Has knowledge in technical support 
-	Adept at troubleshooting and solving problems in hardware and software 
-	Familiar in several operating systems like Windows, Mac, and Linux/UNIX based operating systems
-	Has experience in initiating and conducting meeting with users to gather data requirements and 
+	-Has experience setting up web applications in IIS or Tomcat
+	-Has knowledge in technical support 
+	-Adept at troubleshooting and solving problems in hardware and software 
+	-Familiar in several operating systems like Windows, Mac, and Linux/UNIX based operating systems
+	-Has experience in initiating and conducting meeting with users to gather data requirements and 
 	resolving issues
 
 **EXPERIENCE**
@@ -33,9 +33,10 @@ Software Development & Network Engineering 					2014 – 2016
 Sheridan College 									Brampton, ON 
 
 
-**Noteworthy courses; **
-	Roblox Game Development 			 Database Management 
-	Enterprise Java Development 			
+**Noteworthy courses**
+
+	- Roblox Game Development 			- Database Management 
+	- Enterprise Java Development 			
 
 
 **Interests and Activities**
