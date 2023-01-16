@@ -19,17 +19,18 @@
 
 **EXPERIENCE**
 
-Roblox Developer			  		 			Jan 2016  –  present
-	Worked primarily in developing game applications for Roblox
-	Main game  - The Quarry
+	Roblox Developer	 				Jan 2016  –  present 
+		Worked primarily in developing game applications for Roblox
+		Main game  - The Quarry
 
 
 **EDUCATION**
-Information Technologies Support Services 						2017 – 2018 
-Sheridan College 									Brampton, ON 
 
-Software Development & Network Engineering 					2014 – 2016 
-Sheridan College 									Brampton, ON 
+	Information Technologies Support Services	 				2017 – 2018 
+	Sheridan College				 				Brampton, ON 
+
+	Software Development & Network Engineering	 				2014 – 2016 
+	Sheridan College				 				Brampton, ON 
 
 
 **Noteworthy courses**
@@ -44,8 +45,8 @@ Sheridan College 									Brampton, ON
 
 **Awards and Acknowledgments**
 
-•	Honours and Subject Award at David Suzuki - Grade 9 & 10, Grade 11 Computer Science 
-•	Invited to GDC (Game Developers Conference in San Francisco CA) as a volunteer for ROBLOX
-•	Canadian Computing Competition at University of Waterloo – Participant
-•	Youth Leadership Conference at Western University for LDS – Participant
-•	Elected as Senior Student Council at David Suzuki
+	• Honours and Subject Award at David Suzuki - Grade 9 & 10, Grade 11 Computer Science 
+	• Invited to GDC (Game Developers Conference in San Francisco CA) as a volunteer for ROBLOX
+	• Canadian Computing Competition at University of Waterloo – Participant
+	• Youth Leadership Conference at Western University for LDS – Participant
+	• Elected as Senior Student Council at David Suzuki
